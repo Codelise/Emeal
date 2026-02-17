@@ -10,7 +10,7 @@ export default {
         "background-dark": "#221910",
       },
       fontFamily: {
-        display: ["Plus Jakarta Sans", "sans-serif"],
+        display: ["Plus Jakarta Sans"],
       },
       borderRadius: {
         DEFAULT: "0.5rem",
